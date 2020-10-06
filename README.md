@@ -10,3 +10,4 @@ Raspberry Pi OS service to control [BNeta GU10 RGBW](https://www.builders.co.za/
    - The [BNeta GU10 RGBW template](https://templates.blakadder.com/bneta_IO-WIFI-GU10S.html) on the site didn't work for my light bulb, and the pictures didn't look the same. I saw a picture of a light bulb that looked almost exactly the same, tried its' template, and all the functionality worked as expected.
 3. [Setup Home Assistant on the Raspberry Pi](https://www.home-assistant.io/docs/installation/raspberry-pi/).
    - [Setup Home Assistant to run after boot](https://community.home-assistant.io/t/autostart-using-systemd/199497)
+4. Install mosquitto by running `sudo apt-get install mosquitto` in a terminal.
