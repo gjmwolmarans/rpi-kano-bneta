@@ -1,4 +1,4 @@
-# rpi-kano-bneta
+# rpi-kano-tasmota
 Raspberry Pi OS service to control Tasmota RGBW flashed light bulbs with a [Kano Harry Potter Wand](https://kano.me/us/store/products/coding-wand) using Bluetooth and the MQTT protocol.
 
 # Setup
